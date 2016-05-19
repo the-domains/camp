@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[camp]]></title>
         <description><![CDATA[camp]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/camp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 17:41:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 17:41:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/camp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fuseproject's Three-Port Zolt Charger]]></title>
+            <description><![CDATA[<article><h1>Fuseproject's Three-Port Zolt Charger</h1><p>Launching today, the Zolt Laptop Charger aims to make powering all your devices faster, easier and much less cumbersome. The charger-designed by fuseproject -is a sleek, lightweight device with three USB ports. This translates to charging three devices (laptop, phone, smartwatch, portable phone-charger, you name it) all at once-while only using one power outlet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02ed67c6c41fa59f72aa593179a73a1443f9218c.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/tech/yves-behar-simultaneous-laptop-charger-zolt</link>
+            <guid isPermaLink="false">bc4a4837-d8bc-4785-8fd8-ec89482975cf</guid>
+            <pubDate>Thu, 19 May 2016 17:41:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Great Barrier Reef's Best Hope Is a Killer Robot]]></title>
             <description><![CDATA[<article><h1>The Great Barrier Reef's Best Hope Is a Killer Robot</h1><p>Crown-of-thorns starfish are the zombies of the sea. They won't die even if you cut them in half. To kill one, you must dismember it completely-or inject it with poisonous (to them) bile salts. Instead of braaains, these zombies munch coral, and off the coast of Australia, infestations of the beasts are damaging the Great Barrier Reef at an alarming rate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df2ff642b24f92833cf4da9277a687034f647587.jpg"></article>]]></description>

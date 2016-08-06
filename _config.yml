@@ -11,6 +11,9 @@ color:
     - '#B64926'
     - '#8E2800'
 layout_spectrum: 0.9869041978381574
+author:
+  name: Forrest Feuer
+  email: ''
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/160b127c-3583-4839-b58f-bdc0c5488536.png
 name: The Forge
